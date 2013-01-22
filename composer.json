@@ -9,7 +9,7 @@
     "include-path": ["library/"],
     "autoload": {
         "psr-0" : {
-            "TBS" : "",
+            "TBS" : ""
         }
     }
 }

@@ -6,7 +6,6 @@
     "require": {
         "php": ">=5.3.0"
     },
-    "include-path": ["library/"],
     "autoload": {
         "psr-0" : {
             "TBS" : ""
